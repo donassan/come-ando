@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+}
+.barra {
+
+    font-family: sans-serif, helvetica, arial;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.imagem {
+    text-align: center;
+
+}
+
+header img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    border: solid 5px #228B22;
+}
+
+h1 {
+    color: #228B22;
+}
+
+h2 {
+    color: white;
+}
+
+section {
+    color: white;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+
+}
+
+footer p {
+    margin: 20px;
+}
+
+footer a {
+    text-align: center;
+}
